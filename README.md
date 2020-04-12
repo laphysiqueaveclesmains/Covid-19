@@ -1,2 +1,7 @@
 # Covid-19
-This repository contains the files associated with the Covid-19 operations conducted at Sorbonne Université in the framework of the coordination ensured by Christian Simon and Pierre Carles
+Cette librairie Github contient les fichiers et notices associées aux visières conçues à Polytech Sorbonne pour la coordination de Sorbonne Université à destination de la Faculté de Médecine. Ce design de visière est prévu pour des soignants en relation avec des patients Covid-19, dans un contexte de soins requérant un contact direct avec les patients et des gestes pouvant mettre en oeuvre une importante force physique. Il a donc pour objectif de concilier trois critères a priori antagonistes: la robustesse, le confort et la vitesse d'impression. 
+La version V2 est conçue pour être associée à un élastique de bureau standard (à n'utiliser qu'en cas de défaut d'élastique de couture).
+La version V3 est conçue pour être associée à un élastique de couture large (idéalement 20 mm) muni de boutonnières. Elle se décline en deux sous-version de géométries quasi-identiques, mais techniquement distinctes : la V3.1 possède une géométrie moins fine que la V3.2, avec le bénéfice d'être imprimable sans support ni jupe sur la plupart des machines, en association avec des paramètres d'impression assez crus. Le résultat est donc une impression potentiellement très rapide. La V3.2 est mieux finie, mais afin d'en conserver tous les détails, il peut être nécessaire d'opter pour des paramètres d'impression plus sévères (ce qui rallonge inévitablement le temps d'impression).
+
+Actualisé le 13/04/2020 par Pierre Carles.
+Pour tout renseignement ou question, contactez pierre.carles@sorbonne-universite.fr .
